@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**siltleaf/siltleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/siltleaf/siltleaf.github.io/main/logo.png" width="120" />
 
-Here are some ideas to get you started:
+# siltleaf
+**Lightweight software for Windows & Mobile.**
+*Minimalist. Performant. Zero Bloat.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[Website](https://siltleaf.github.io) • [Contact](mailto:siltleaf.dev@gmail.com)
+
+</div>
+
+### 🛠 The Studio
+Siltleaf is an independent software studio focused on creating tools that respect your hardware and your focus. We build with a #000000 aesthetic and a "performance-first" mindset.
+
+### 📦 Current Projects
+- **Siltleaf Web:** Our digital home (Live at siltleaf.github.io)
+- **Project 01:** [In Development] - Minimalist Windows Utility.
+- **Project 02:** [In Development] - Lightweight Mobile Experience.
+
+---
+
+<div align="center">
+<img src="https://view-counter.api.com/badge.svg?label=Siltleaf+Visitors&color=000000" alt="Views" />
+</div>
