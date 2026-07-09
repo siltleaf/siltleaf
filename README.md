@@ -8,7 +8,7 @@
 
 ---
 
-[Website](https://siltleaf.github.io) • [Contact](mailto:siltleaf.dev@gmail.com)
+[Website](https://siltleaf.github.io) • [Contact](mailto:siltleaf.dev@gmail.com) • [X (Twitter)](https://x.com/siltleaf)
 
 </div>
 
@@ -23,5 +23,5 @@ Siltleaf is an independent software studio focused on creating tools that respec
 ---
 
 <div align="center">
-<img src="https://view-counter.api.com/badge.svg?label=Siltleaf+Visitors&color=000000" alt="Views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiltleaf%2Fsiltleaf&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true" alt="Visitors" />
 </div>
