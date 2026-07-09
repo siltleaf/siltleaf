@@ -23,5 +23,5 @@ Siltleaf is an independent software studio focused on creating tools that respec
 ---
 
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiltleaf%2Fsiltleaf&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true" alt="Visitors" />
+<img src="https://img.shields.io/badge/VISITORS-000000?style=flat-square&logo=github&logoColor=white" alt="Visitors" />
 </div>
