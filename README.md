@@ -17,7 +17,7 @@ Siltleaf is an independent software studio focused on creating tools that respec
 
 ### 📦 Current Projects
 - **Siltleaf Web:** Our digital home (Live at siltleaf.github.io)
-- **Project 01:** [In Development] - Minimalist Windows Utility.
+- **SL Limitless:** [Live v1.0.0](https://github.com/siltleaf/sl-limitless/releases) — Transparent System HUD for Windows.
 - **Project 02:** [In Development] - Lightweight Mobile Experience.
 
 ---
